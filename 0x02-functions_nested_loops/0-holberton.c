@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "holberton.h"
 
 /**
  *main-entry point
@@ -12,8 +12,8 @@ int main()
   char p[]="Holberton";
   for (ch=0;ch<=9;ch++)
     {
-        putchar(p[ch]);
+        _putchar(p[ch]);
     }
-  putchar('\n');
+  _putchar('\n');
   return 0;
 }
