@@ -5,14 +5,14 @@
 *
 * Return: void.
 */
-int i;
+
 void print_alphabet(void)
 {
-	
+	int i;
 
 	for (i = 97; i < 123; i++)
 		{
-		 int putchar(i);
+		_putchar(i);
 		}
-		 int putchar('\n');
+		_putchar('\n');
 }
