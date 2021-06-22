@@ -15,5 +15,5 @@ int main()
       _putchar(p[ch]);
     }
     _putchar('\n');
- return 0;
+    return (0);
 }
