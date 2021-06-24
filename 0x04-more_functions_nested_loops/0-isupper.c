@@ -13,7 +13,6 @@ int _isupper(int c)
   int i;
   if(i>64 && i<91)
     {
-      _putchar(i);
       return (1);
     }else
     {
