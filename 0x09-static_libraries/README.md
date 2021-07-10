@@ -1,1 +1,1 @@
-<h1>We start the magic on static libraries</h1>
+<h1>We are making libraries now</h1>
