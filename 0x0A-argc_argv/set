@@ -1,0 +1,5 @@
+#!/bin/bash
+alias e='emacs'
+alias a='git add'
+alias c='git commit -m "Update"'
+alias p='git push origin main'
